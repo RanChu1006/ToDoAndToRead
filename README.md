@@ -1,4 +1,6 @@
 # ToDoAndToRead
+<h2> website read usually:</h2>
+<p>Joel on Software: https://www.joelonsoftware.com/ </p>
 <h2> website need read:</h2>
 <p> wordpress REST api:<a> https://developer.wordpress.org/rest-api/  </a></p>
 <p> github REST api:<a> https://developer.github.com/v3/  </a></p>
